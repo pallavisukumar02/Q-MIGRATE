@@ -1,0 +1,4 @@
+# Example legacy service
+ECDSA_ALGORITHM = "ECDSA"
+ECDH_KEY_EXCHANGE = "ECDH"
+AES_ALGORITHM = "AES-256"
